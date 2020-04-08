@@ -1,4 +1,4 @@
-= Welcome to the new Couchbase Docs!
+= Welcome to the new ThoughtSpot Docs!
 :page-layout: home
 :!sectids:
 
@@ -15,36 +15,36 @@ You can find it over at the https://developer.couchbase.com[Developer Portal].
 == {empty}
 
 [.card]
-=== Couchbase for Administrators
+=== ThoughtSpot for Administrators
 
-If you are a Couchbase administrator wanting to configure, deploy, and manage Couchbase Data Platform
+If you are a ThoughtSpot administrator wanting to configure, deploy, and manage Couchbase Data Platform
 
 * xref:server:install:get-started.adoc[Deployment Options]
 * xref:server:security:security-intro.adoc[Security]
 * xref:server:backup-restore:backup-restore.adoc[Backup and Restore]
 
 [.card]
-=== Couchbase for Developers
+=== ThoughtSpot for Developers
 
-If you are a Couchbase user wanting to develop on an existing installation
+If you are a ThoughtSpot user wanting to develop on an existing installation
 
 * xref:java-sdk::start-using-sdk.adoc[Quick Install]
 * xref:java-sdk:common:sample-application.adoc[Sample Application]
 * xref:java-sdk:common:core-operations.adoc[CRUD]
 
 [.card]
-=== Couchbase for SQL Developers
+=== ThoughtSpot for SQL Developers
 
-If you are a Couchbase user wanting to understand how to develop queries
+If you are a ThoughtSpot user wanting to understand how to develop queries
 
 * xref:server:getting-started:do-a-quick-install.adoc[Quick Install]
 * xref:server:getting-started:try-a-query.adoc[Try a N1QL Query]
 * xref:server:n1ql:n1ql-language-reference/index.adoc[N1QL Language Reference]
 
 [.card]
-=== Couchbase for App Developers
+=== ThoughtSpot for App Developers
 
-If you are a Couchbase user wanting to develop for applications on the edge
+If you are a ThoughtSpot user wanting to develop for applications on the edge
 
 * xref:sync-gateway::getting-started.adoc[Get Started with Sync Gateway]
 * xref:couchbase-lite::index.adoc[Get Started with Couchbase Lite]
