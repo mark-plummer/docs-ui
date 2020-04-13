@@ -224,7 +224,6 @@
 
   .footer-links {
     padding-top: 2rem;
-
   }
 
   .footer-links .col {
@@ -233,7 +232,7 @@
 
   .footer-links .col:nth-child(1) {
     flex-basis: 0%;
-    padding: 0 .25rem;
+    padding: 0 0.25rem;
   }
 
   .footer-links .col:nth-child(2) {
