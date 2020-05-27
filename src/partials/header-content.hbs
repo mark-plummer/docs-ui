@@ -11,9 +11,9 @@
       </div>
       <div id="topbar-menu" class="navbar-menu">
         <div class="navbar-start">
-          <div class="navbar-item has-dropdown">
+          <!-- <div class="navbar-item has-dropdown">
               <!-- <a class="navbar-link" href="{{or site.url (or siteRootUrl siteRootPath)}}">Docs</a> -->
-            <div class="navbar-dropdown explore">
+          <!--  <div class="navbar-dropdown explore">
               <div class="title">ThoughtSpot Documentation Overview</div>
               <div class="cols">
                 <ul>
@@ -54,9 +54,9 @@
           {{#if (and page.component (ne page.component.name 'home'))}}
           {{#if (and page.component (ne page.component.name 'tutorials'))}}
           {{#if (and page.component (ne page.component.name 'userprofile-couchbase-mobile'))}}
-          {{#if (or page.versions (ends-with page.component.name '-sdk'))}}
+          {{#if (or page.versions (ends-with page.component.name '-sdk'))}} -->
           <div class="navbar-item has-dropdown">
-            <a class="navbar-link component" href="{{relativize page.componentVersion.url}}"><span class="title">{{{page.component.title}}}</span> <span class="version">{{page.componentVersion.displayVersion}}</span></a>
+            <!-- <a class="navbar-link component" href="{{relativize page.componentVersion.url}}"><span class="title">{{{page.component.title}}}</span> <span class="version">{{page.componentVersion.displayVersion}}</span></a> -->
             <div class="navbar-dropdown versions">
               <div class="cols">
                 <ul>
